@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"ConvertToUTF8",
+		"EclipseJavaFormatter",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"Github Tools",
+		"HTML-CSS-JS Prettify",
+		"JavaImports",
+		"JavaScript Completions",
+		"JavaScript Ultimate",
+		"Javatar",
+		"jQuery",
+		"jQuery Snippets pack",
+		"JsonTree",
+		"Package Control",
+		"Pylinter",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeTmpl",
+		"Tag",
+		"Terminal"
+	]
+}

@@ -1,0 +1,666 @@
+{
+	"folder_history":
+	[
+		"/E/python_workspace/NDAAO_agri",
+		"/D/testJava"
+	],
+	"last_version": 3114,
+	"last_window_id": 3,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 631.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"print",
+						"println()	func"
+					],
+					[
+						"el",
+						"el	else"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "inst",
+				"selected_items":
+				[
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"renam",
+						"File: Rename"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"rename",
+						"File: Rename"
+					],
+					[
+						"rena",
+						"Emmet: Rename Tag"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 502.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"javac TestBed.java",
+					"java TestBed",
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/testJava/Counter4.java",
+				"/D/testJava/test.jsp",
+				"/D/testJava/myTest/my.out",
+				"/D/testJava/myTest/MyTest.java",
+				"/D/testJava/Box.java",
+				"/D/testJava/BinarySearch.java",
+				"/D/testJava/BigEgg2.java",
+				"/D/testJava/Parcel2.java",
+				"/C/Program Files/sublime3/Data/Packages/User/Terminal (Windows).sublime-settings",
+				"/C/Program Files/sublime3/Data/Packages/User/Terminal.sublime-settings",
+				"/C/Program Files/sublime3/Data/Packages/Terminal/Terminal.sublime-settings",
+				"/C/Program Files/sublime3/Data/Packages/User/JavaImports.sublime-settings",
+				"/C/Program Files/sublime3/Data/Packages/JavaImports/JavaImports.sublime-settings",
+				"/C/Program Files/sublime3/Data/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Program Files/sublime3/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Program Files/sublime3/Data/Packages/Javatar/Javatar.sublime-settings",
+				"/C/Program Files/sublime3/Data/Packages/User/Javatar.sublime-settings",
+				"/C/Program Files/sublime3/Data/Packages/Javatar/README.md",
+				"/C/Program Files/sublime3/Data/Packages/User/Preferences.sublime-settings",
+				"/D/testJava/testjava.java",
+				"/C/Program Files/sublime3/Data/Packages/Default/Preferences.sublime-settings",
+				"/C/Program Files/sublime3/Data/Packages/SublimeTmpl/Main.sublime-menu",
+				"/D/testJava/Test.java",
+				"/D/testJava/Month2.java"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"console",
+					"show ",
+					"show conso"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 149.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/Java/JavaC.sublime-build",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 955.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"print",
+						"println()	func"
+					],
+					[
+						"el",
+						"el	else"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/D/xwky/sublime3/test.py",
+					"settings":
+					{
+						"buffer_size": 17,
+						"line_ending": "Windows",
+						"name": "print('xiaomin')"
+					}
+				}
+			],
+			"build_system": "Packages/Python/Python.sublime-build",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 242.0,
+				"last_filter": "git:pus",
+				"selected_items":
+				[
+					[
+						"git:pus",
+						"Git: Push"
+					],
+					[
+						"git:com",
+						"Git: Commit"
+					],
+					[
+						"git:add",
+						"Git: Add Current File"
+					],
+					[
+						"git:push",
+						"Git: Push"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"git:",
+						"Git: Add All"
+					],
+					[
+						"git:di",
+						"Git: Diff Current File"
+					],
+					[
+						"git:sta",
+						"Git: Status"
+					],
+					[
+						"git:a",
+						"Git: Add All"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"renam",
+						"File: Rename"
+					],
+					[
+						"rename",
+						"File: Rename"
+					],
+					[
+						"rena",
+						"Emmet: Rename Tag"
+					]
+				],
+				"width": 528.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"javac TestBed.java",
+					"java TestBed",
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/E/python_workspace/NDAAO_agri"
+			],
+			"file_history":
+			[
+				"/E/python_workspace/NDAAO_agri/verifier_test.py",
+				"/C/Program Files/sublime3/Data/Packages/User/Pylinter.sublime-settings",
+				"/E/python_workspace/NDAAO_agri/visualization.py",
+				"/C/Program Files/sublime3/Data/Packages/Terminal/Default (Windows).sublime-keymap",
+				"/E/python_workspace/NDAAO_agri/data_input.py",
+				"/C/Program Files/sublime3/Data/Packages/Git/Git.sublime-settings",
+				"/C/Program Files/sublime3/Data/Packages/Pylinter/Pylinter.sublime-settings",
+				"/D/testJava/Counter4.java",
+				"/D/testJava/test.jsp",
+				"/D/testJava/myTest/my.out",
+				"/D/testJava/myTest/MyTest.java",
+				"/D/testJava/Box.java",
+				"/D/testJava/BinarySearch.java",
+				"/D/testJava/BigEgg2.java",
+				"/D/testJava/Parcel2.java",
+				"/C/Program Files/sublime3/Data/Packages/User/Terminal (Windows).sublime-settings",
+				"/C/Program Files/sublime3/Data/Packages/User/Terminal.sublime-settings",
+				"/C/Program Files/sublime3/Data/Packages/Terminal/Terminal.sublime-settings",
+				"/C/Program Files/sublime3/Data/Packages/User/JavaImports.sublime-settings",
+				"/C/Program Files/sublime3/Data/Packages/JavaImports/JavaImports.sublime-settings",
+				"/C/Program Files/sublime3/Data/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Program Files/sublime3/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Program Files/sublime3/Data/Packages/Javatar/Javatar.sublime-settings",
+				"/C/Program Files/sublime3/Data/Packages/User/Javatar.sublime-settings",
+				"/C/Program Files/sublime3/Data/Packages/Javatar/README.md",
+				"/C/Program Files/sublime3/Data/Packages/User/Preferences.sublime-settings",
+				"/D/testJava/testjava.java",
+				"/C/Program Files/sublime3/Data/Packages/Default/Preferences.sublime-settings",
+				"/C/Program Files/sublime3/Data/Packages/SublimeTmpl/Main.sublime-menu",
+				"/D/testJava/Test.java",
+				"/D/testJava/Month2.java"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"seqTrans",
+					"State",
+					"state",
+					"State",
+					"state",
+					"State",
+					"state",
+					"State",
+					"state",
+					"State",
+					"state",
+					"State",
+					"state",
+					"import",
+					"console",
+					"show ",
+					"show conso"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "E:\\python_workspace\\NDAAO_agri"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/D/xwky/sublime3/test.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 17,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										16,
+										16
+									]
+								],
+								"settings":
+								{
+									"auto_name": "print('xiaomin')",
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												15,
+												16
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												5,
+												6
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"is_init_dirty_state": true,
+									"is_xml": false,
+									"syntax": "Packages/Python/Python.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 149.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 158.0
+			},
+			"pinned_build_system": "Packages/Python/Python.sublime-build",
+			"position": "0,0,1,-1,-1,-1,-1,924,622,235,1593",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"dat",
+						"data_input.py"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 185.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 3,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
